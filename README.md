@@ -1,2 +1,2 @@
 # pollsapi
-An Restfull API for making polls
+A Restfull API for making polls
